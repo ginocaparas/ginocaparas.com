@@ -229,7 +229,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #207fa4;
+  color: #111;
 }
 
 .mobile-nav {
@@ -1716,4 +1716,6 @@ section {
 
 .portfolio-links a:hover {color: gold !important;}
 
-.icons img {max-width:50px;}
+.icons img {max-width:50px;margin-top:0.2em;}
+
+.stream-engine {background:#000;color:white;}
