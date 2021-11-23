@@ -1710,6 +1710,7 @@ section {
 
 .about-btns { transition: ease-in-out 0.2s;}
 .about-btns .btn {margin-bottom: 0.2em;}
+.about-btns .btn:hover {color:white;}
 
 .vbox-share {display: none;}
 
