@@ -206,8 +206,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down .drop-down > a:after {
-  content: "\eaa0";
-  font-family: IcoFont;
+  content: "\f0c9";
+  font-family: "Font Awesome 5 Free"
   position: absolute;
   right: 15px;
 }
