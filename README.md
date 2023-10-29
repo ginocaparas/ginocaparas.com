@@ -1,6 +1,6 @@
 # It's my personal portfolio site!
 
-https://i.imgur.com/AWTa67K.png
+![screenshot of my site Oct 2023](https://i.imgur.com/AWTa67K.png)
 
 Hello. I'm Gino. I'm a startup founder / animation guy / UX/UI design guy / full-stack design guy / online community guy / overall tech guy / dad of 2. 
 
